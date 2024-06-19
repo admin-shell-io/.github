@@ -1,5 +1,3 @@
-Information for the members of the admin-shell-io organization
-
 ## Industrial Digital Twin Association (IDTA)
 
 Governance of the specifications contained in the repository is done by the [IDTA](https://industrialdigitaltwin.org/en/)
