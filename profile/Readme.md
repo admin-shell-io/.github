@@ -7,14 +7,15 @@ The release of the Asset Administration Shell Specifications can be found here:
 https://industrialdigitaltwin.org/en/content-hub/aasspecifications
 
 You find the html documentation under the link:
-https://admin-shell-io.github.io/aas-specs-antora/index/home/index.html
+https://industrialdigitaltwin.io/aas-specifications
 
 The version "in progress" is not yet released but shows the version in work.
 
 ![Select Version of the Specification](images/SelectionDocumentVersion.png)
 
 The github repositories dedicated to Asset Administration Shell Specifications start with ["**aas-specs**"](https://github.com/orgs/admin-shell-io/repositories?q=aas-specs).
-The two repositories ["aas-specs-antora-ui"](https://github.com/admin-shell-io/aas-specs-antora-ui) and ["aas-specs-antora"](https://github.com/admin-shell-io/aas-specs-antora) are used for generating the HTML documentation based on Antora.
+The two repositories ["aas-specs-antora-ui"](https://github.com/admin-shell-io/aas-specs-antora-ui) and
+["aas-specifications"](https://github.com/admin-shell-io/aas-specifications) are used for generating the HTML documentation based on Antora.
 
 ## Submodel Template Specifications
 
